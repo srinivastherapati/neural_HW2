@@ -1,3 +1,6 @@
+Name: Srinivas Therapati
+id:700755602
+
 Question:2
 Convolution Operations with Different Parameters
 This demonstrates convolution operations using NumPy and TensorFlow/Keras on a 5×5 input matrix with a 3×3 kernel, exploring different stride and padding configurations. The script performs convolutions with:
